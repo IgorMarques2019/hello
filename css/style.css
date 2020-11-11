@@ -31,7 +31,7 @@ header ul a.cadastro {
      color:white;
     
  }
-@media (max-width:400px) {
+@media (max-width:480px) {
     header {
         display: flex;
         flex-direction: column;
